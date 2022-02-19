@@ -126,7 +126,7 @@ def generate_image(folder_name, file_name, height, width):
 
     image = Image.open(f"generated-{file_name}.png")
     saturation_filter = ImageEnhance.Color(image)
-    saturated_img = saturation_filter.enhance(2)
+    saturated_img = saturation_filter.enhance(4)
 
     saturated_img.save(f"generated-{file_name}.png")
 
