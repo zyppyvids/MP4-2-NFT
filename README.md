@@ -29,9 +29,9 @@ If you would like to contribute to this project reach out to me.
 
 ### Examples
 
-![Video_1](https://github.com/zyppyvids/MP4-2-NFT/blob/2bf4ea26491b4e9446785d869c9dcb7415dbae36/generated-video.png)
+![Video_1](https://github.com/zyppyvids/MP4-2-NFT/blob/e8964d30030aa8b265b12fa30147b0dcd51db94d/examples/generated-video.png)
 
-![Video_2](https://github.com/zyppyvids/MP4-2-NFT/blob/2bf4ea26491b4e9446785d869c9dcb7415dbae36/generated-video2.png)
+![Video_2](https://github.com/zyppyvids/MP4-2-NFT/blob/e8964d30030aa8b265b12fa30147b0dcd51db94d/examples/generated-video2.png)
 
 ### Contact-Information
 [Github Profile](https://github.com/zyppyvids)
